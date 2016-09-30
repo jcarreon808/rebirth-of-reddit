@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/jcarreon808/rebirth-of-reddit/issues"
   },
-  "homepage": "https://github.com/jcarreon808/rebirth-of-reddit#readme"
+  "homepage": "https://github.com/jcarreon808/rebirth-of-reddit#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-sass": "^2.3.2"
+  }
 }
